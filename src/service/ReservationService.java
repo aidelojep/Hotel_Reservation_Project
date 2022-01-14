@@ -15,7 +15,6 @@ public class ReservationService {
     private ReservationService() {
     }
 
-
     public void addRoom(IRoom room){
 
     }
